@@ -1,4 +1,4 @@
-# Game Theory Image Clustering
+# Image Clustering
 Submitted by Ujjwal Narayan Pandram  
 Roll No. IIT2021034  
 College IIIT Allahabad  
